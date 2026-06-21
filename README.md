@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Seeeiiiii/Seeeiiiii/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Seeeiiiii/Seeeiiiii/snake-output/snake.svg?v=1" width="100%" />
 </p>
 
 <br>
