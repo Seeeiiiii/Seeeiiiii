@@ -31,9 +31,10 @@
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seeeiiiii&show_icons=true&theme=midnight-purple&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seeeiiiii&theme=midnight-purple&hide_border=true" width="49%" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+   <img src="https://streak-stats.demolab.com/?user=Seeeiiiii&theme=transparent&hide_border=true&ring=B58B7A&fire=B58B7A&currStreakLabel=7A8B73&sideLabels=8A786B&dates=A5978B&sideNums=7A8B73" alt="GitHub Streak" 
+  </a>
 </p>
 
 <br>
