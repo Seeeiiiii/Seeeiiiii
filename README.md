@@ -1,6 +1,6 @@
 
 <h1 align="center">Seito B. Tachibana</h1>
-<h4 align="center">IT Student</h4>
+<h4 align="center">IT Student | PUP</h4>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVuZ3dmYXU1NnY1amE3dXhxZjRpZnV1MmwwY2R6eGR1bThwc2pnNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbtJJPft2P7rcpbBdb/giphy.gif" width="300" />
